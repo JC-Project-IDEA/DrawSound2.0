@@ -36,7 +36,7 @@
     <li><a href="#常見問題集"> 常見問題集</a></li>
   </ol>
 
-
+<img src="images/cover.jpg" alt="work" >
 ## 學習資料下載：
 
 <li>
